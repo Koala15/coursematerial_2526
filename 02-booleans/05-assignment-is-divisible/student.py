@@ -1,1 +1,4 @@
-# write your code here
+def is_divisible(a, b):
+    if a % b == False:
+        return True
+    return False
